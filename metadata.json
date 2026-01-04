@@ -1,0 +1,7 @@
+{
+  "name": "New RamDev Shop",
+  "description": "A premium confectionery shop application for browsing and ordering authentic sweets and cakes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
